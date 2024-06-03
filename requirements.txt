@@ -1,0 +1,10 @@
+streamlit
+xarray
+folium
+streamlit_folium
+matplotlib
+cartopy
+numpy
+branca
+scikit-learn
+requests
